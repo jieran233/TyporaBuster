@@ -3,7 +3,8 @@ import sys
 import winreg
 
 
-def print_(text='', color='default'):
+def print_(text_='', color='default'):
+    text = str(text_)
     if color == 'default':
         print(text)
     elif color == 'black':
