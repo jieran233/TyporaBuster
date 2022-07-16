@@ -1,6 +1,8 @@
 # TyporaBuster
 
-A simple script that makes typora's trial period never end, maybe it works.
+[=> Here are the README in English](https://github.com/jieran233/TyporaBuster/blob/main/README-EN.md)
+
+一个简单的Python脚本，能使Typora试用期永不结束，也许会奏效。
 
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=114514Code&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 
